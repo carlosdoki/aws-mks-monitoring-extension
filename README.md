@@ -133,14 +133,14 @@ Please follow the steps listed in this [troubleshooting-document](https://commun
 
 ## Contributing
 
-Always feel free to fork and contribute any changes directly via [GitHub](https://github.com/Appdynamics/aws-MKS-monitoring-extension).
+Always feel free to fork and contribute any changes directly via [GitHub](https://github.com/carlosdoki/aws-mks-monitoring-extension).
 
 ## Version
 
-| Name              | Version                                                                                           |
-| ----------------- | ------------------------------------------------------------------------------------------------- |
-| Extension Version | 1.0.6                                                                                             |
-| Last Update       | 18/05/2021                                                                                        |
-| Change List       | [ChangeLog](https://github.com/Appdynamics/aws-MKS-monitoring-extension/blob/master/CHANGELOG.md) |
+| Name              | Version                                                                                          |
+| ----------------- | ------------------------------------------------------------------------------------------------ |
+| Extension Version | 1.0.0                                                                                            |
+| Last Update       | 12/21/2021                                                                                       |
+| Change List       | [ChangeLog](https://github.com/carlosdoki/aws-mks-monitoring-extension/blob/master/CHANGELOG.md) |
 
 **Note**: While extensions are maintained and supported by customers under the open-source licensing model, they interact with agents and Controllers that are subject to [AppDynamics’ maintenance and support policy](https://docs.appdynamics.com/latest/en/product-and-release-announcements/maintenance-support-for-software-versions). Some extensions have been tested with AppDynamics 4.5.13+ artifacts, but you are strongly recommended against using versions that are no longer supported.
